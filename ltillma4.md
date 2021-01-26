@@ -1,0 +1,1 @@
+A fork in GitHub will create a copy of the repository in your GitHub repositories. Cloning a repository will only copy it to your local machine. A branch is a copy of the code in master that is used to make changes that will be merged in later. Branches are useful when doing group development on the same project.
